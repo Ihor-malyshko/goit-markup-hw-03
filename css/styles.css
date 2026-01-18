@@ -1,0 +1,176 @@
+h1 {
+  color: teal;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
+  color: #434455;
+  background-color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #2e2f42;
+}
+
+p {
+}
+
+.sometext {
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #4d5ae5;
+  text-decoration: none;
+}
+.logo-header {
+  color: #2e2f42;
+}
+.logo-footer {
+  color: #f4f4fd;
+}
+
+/* header */
+
+.navbar-list {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.navbar-list-link {
+  text-decoration: none;
+  color: #2e2f42;
+}
+.navbar-list-link:hover,
+.navbar-list-link:focus {
+  color: #404bbf;
+}
+
+.contacts {
+  font-style: normal;
+  color: #434455;
+}
+.contacts-list-link {
+  text-decoration: none;
+  color: #434455;
+}
+
+.contacts-list-link:hover,
+.contacts-list-link:focus {
+  color: #404bbf;
+}
+
+/* hero */
+
+.section-hero {
+  background-color: #2e2f42;
+}
+
+.section-hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+
+  color: #ffffff;
+  text-align: center;
+}
+
+.section-hero-button {
+  background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.section-hero-button:hover,
+.section-hero-button:focus {
+  background-color: #404bbf;
+}
+
+/* section1 */
+
+.section-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.section-paragraph {
+}
+
+/* section-two */
+
+.section-two {
+  background-color: #f4f4fd;
+}
+
+.section-two-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.section-two-item {
+  background-color: #ffffff;
+}
+
+.section-two-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.section-two-paragraph {
+}
+
+/* section-four */
+
+.section-four-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.section-four-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.section-four-paragraph {
+}
+
+/* footer */
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-text {
+  color: #f4f4fd;
+}
