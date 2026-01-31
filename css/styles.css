@@ -197,6 +197,9 @@ img {
 .section-two-item {
   width: calc((100% - 72px) / 4);
 }
+.section-two-item-title {
+  margin-bottom: 8px;
+}
 
 .section-two-paragraph {
   margin-bottom: 8px;
